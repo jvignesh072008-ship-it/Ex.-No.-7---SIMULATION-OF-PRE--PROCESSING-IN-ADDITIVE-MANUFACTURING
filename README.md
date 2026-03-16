@@ -58,9 +58,7 @@ Slicing
 Path planning
 <img width="1071" height="569" alt="Screenshot 2026-03-13 201258" src="https://github.com/user-attachments/assets/5dd697ea-6e5d-40dc-81a8-e13384dfad9b" />
 
-![image](https://github.com/25014905/EMPD-EXP-NO.-6.1/blob/main/WhatsApp%20Image%202026-03-15%20at%208.11.12%20PM.jpeg?raw=true)
-![image](https://github.com/25014905/EMPD-EXP-NO.-6.1/blob/main/WhatsApp%20Image%202026-03-15%20at%208.12.13%20PM.jpeg?raw=true)
-![image](https://github.com/25014905/EMPD-EXP-NO.-6.1/blob/main/WhatsApp%20Image%202026-03-15%20at%208.12.58%20PM.jpeg?raw=true)
+<img width="1920" height="1080" alt="Screenshot 2026-03-11 160855" src="https://github.com/user-attachments/assets/850fff13-f2f8-4932-9b09-7140071514c7" />
 
 ### Name: VIGNESH J
 ### Register Number: 212225230297
