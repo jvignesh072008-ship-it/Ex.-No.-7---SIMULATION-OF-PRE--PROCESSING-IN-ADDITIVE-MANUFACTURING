@@ -1,5 +1,6 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 13/3/2026
+### DATE: 14/3/2026 
+
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -38,13 +39,26 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
-
 ## Output:
-<img width="1911" height="760" alt="Screenshot 2025-12-15 185954" src="https://github.com/user-attachments/assets/27e20c2d-f65a-4d36-82d9-62558b51593f" />
+
+<img width="1036" height="561" alt="Screenshot 2025-12-20 221923" src="https://github.com/user-attachments/assets/51c30f35-24c8-4ac9-8be3-0188e432f990" />
+
+<img width="1038" height="580" alt="Screenshot 2025-12-20 221933" src="https://github.com/user-attachments/assets/3c508e90-0418-4f52-b860-fd83b7ebd32e" />
+
+<img width="1023" height="538" alt="Screenshot 2025-12-20 221943" src="https://github.com/user-attachments/assets/245fb48c-8bd5-464f-8b05-79f8867d462d" />
+
+CAD File Preparation
+<img width="1083" height="581" alt="Screenshot 2026-03-13 201213" src="https://github.com/user-attachments/assets/e19ca713-47b5-429c-ad4d-7118ce5fcd77" />
+Conversion to STL
+<img width="1077" height="570" alt="Screenshot 2026-03-13 201222" src="https://github.com/user-attachments/assets/3c3adf96-8eaa-4726-a22d-bf95bfcd89b4" />
+Orientation
+<img width="1074" height="581" alt="Screenshot 2026-03-13 201231" src="https://github.com/user-attachments/assets/49165bc1-e35f-4cf2-a332-0cdaf658f8af" />
+Support structure
+<img width="1048" height="579" alt="Screenshot 2026-03-13 201239" src="https://github.com/user-attachments/assets/98713570-7d32-4df9-81bc-e10576fb6221" />
+Slicing
+<img width="1071" height="570" alt="Screenshot 2026-03-13 201247" src="https://github.com/user-attachments/assets/8c871a25-1f07-403f-963a-ec0cc93a19ea" />
+Path planning
+<img width="1071" height="569" alt="Screenshot 2026-03-13 201258" src="https://github.com/user-attachments/assets/5dd697ea-6e5d-40dc-81a8-e13384dfad9b" />
 
 ### Name: VIGNESH J
 ### Register Number: 212225230297
