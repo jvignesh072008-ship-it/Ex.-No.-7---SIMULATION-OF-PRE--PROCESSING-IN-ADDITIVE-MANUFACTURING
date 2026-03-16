@@ -42,9 +42,7 @@
 ## Output:
 
 <img width="1036" height="561" alt="Screenshot 2025-12-20 221923" src="https://github.com/user-attachments/assets/51c30f35-24c8-4ac9-8be3-0188e432f990" />
-
 <img width="1038" height="580" alt="Screenshot 2025-12-20 221933" src="https://github.com/user-attachments/assets/3c508e90-0418-4f52-b860-fd83b7ebd32e" />
-
 <img width="1023" height="538" alt="Screenshot 2025-12-20 221943" src="https://github.com/user-attachments/assets/245fb48c-8bd5-464f-8b05-79f8867d462d" />
 
 CAD File Preparation
@@ -59,6 +57,10 @@ Slicing
 <img width="1071" height="570" alt="Screenshot 2026-03-13 201247" src="https://github.com/user-attachments/assets/8c871a25-1f07-403f-963a-ec0cc93a19ea" />
 Path planning
 <img width="1071" height="569" alt="Screenshot 2026-03-13 201258" src="https://github.com/user-attachments/assets/5dd697ea-6e5d-40dc-81a8-e13384dfad9b" />
+
+![image](https://github.com/25014905/EMPD-EXP-NO.-6.1/blob/main/WhatsApp%20Image%202026-03-15%20at%208.11.12%20PM.jpeg?raw=true)
+![image](https://github.com/25014905/EMPD-EXP-NO.-6.1/blob/main/WhatsApp%20Image%202026-03-15%20at%208.12.13%20PM.jpeg?raw=true)
+![image](https://github.com/25014905/EMPD-EXP-NO.-6.1/blob/main/WhatsApp%20Image%202026-03-15%20at%208.12.58%20PM.jpeg?raw=true)
 
 ### Name: VIGNESH J
 ### Register Number: 212225230297
